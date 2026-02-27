@@ -1,0 +1,5 @@
+{
+  "name": "Personal Finance Dashboard",
+  "description": "A dashboard for tracking monthly recurring expenses and total investment value.",
+  "requestFramePermissions": []
+}
